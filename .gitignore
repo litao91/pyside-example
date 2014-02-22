@@ -1,0 +1,4 @@
+*.tif
+*.pyc
+__pycache__/
+.ropeproject
